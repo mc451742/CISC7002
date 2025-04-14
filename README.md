@@ -3,6 +3,8 @@ CISC7002 Course Final Report Implementation Code
 
 This repository contains the reproduction codes and experimental results of [V2INet](https://github.com/xichennn/V2I_trajectory_prediction).
 
+Project title: Motion Forecasting in Autonomous Driving under Vehicle-to-Everything (V2X) Communication
+
 Programming environment: WSL Linux Sub-system of Windows (Debian) & Anaconda
 
 Python version: 3.8.20
