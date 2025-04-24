@@ -13,6 +13,10 @@ Title: Motion Forecasting in Cooperative Driving under Vehicle-to-Everything (V2
 
 Abstract: With the rapid advancement in connected technologies recently, such as vehicle-to-vehicle (V2V) and vehicle-to-infrastructure (V2I) communication, valuable information from alternate views becomes accessible via wireless networks. The integration of traffic information from alternative views has the potential to overcome the inherent limitations associated with a single viewpoint, such as occlusions and limited field of view. In other words, by intelligently aggregating the critical information received from nearby vehicles and infrastructure, the same traffic scene can be observed from different viewpoints, which allows wider and longer perception range in self-driving cars and may boost the performance of perception and prediction ability of automobiles. Furthermore, this wide and long sensing range may improve the path planning and decision making ability of autonomous vehicle, which ensures safety of traffic participants, like pedestrians and bikers. In this technical report, the focus point is trajectory prediction for autonomous and cooperative driving in mixed-autonomy traffic environments. To be more specific, this report will analyze vehicle-to-everything (V2X) communication techniques and V2X-enabled trajectory prediction in autonomous driving in depth. However, V2X-enabled joint perception will also be discussed in this report for broader analysis of applications of V2X-enabled techniques.
 
+| Model | val_minADE | val_minFDE | val_minMR | val_reg_loss |
+| :-- | :-: | :-: | :-: | :-: |
+| V2INet (Reproduction) |  1.353  |  2.245  |  0.323  |  0.489  |
+
 Contributor:
 
 [Yumu Xie](https://github.com/mc451742) (MC451742) mc45174@um.edu.mo
